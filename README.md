@@ -26,7 +26,7 @@
 - `Motivation`: Existing video recognition algorithms always conduct different training pipelines for inputs with different frame numbers, which requires repetitive training operations and multiplying storage costs. 
 - `Observation`: Directly evaluating the model at frames which are not used in training, the performance will drop significantly (see Figure above), which is summarized as Temporal Frequency Deviation phenomenon.
 - `Solution`: We propose a general framework, named Frame Flexible Network (FFN), which not only enables the model to be evaluated at different frames to adjust its computation, but also reduces the memory costs of storing multiple models significantly.
-- `Strength`: (1) One-shot Training (2) Obvious Performance Gain (3) Signficant Parameter Saving (4) Flexible Computation Adjustment
+- `Strength`: (1) One-shot Training (2) Obvious Performance Gain (3) Significant Parameter Saving (4) Flexible Computation Adjustment.
 
 
 ## Datasets
