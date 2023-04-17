@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: slowfast
+Version: 1.0
+Summary: SlowFast Video Understanding
+Home-page: unknown
+Author: FAIR
+Provides-Extra: tensorboard_video_visualization
+License-File: LICENSE
