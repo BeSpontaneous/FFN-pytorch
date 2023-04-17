@@ -19,7 +19,7 @@
 ```
 
 <div align="center">
-  <img src="fig/deviation.png" width="500px" height="300px">
+  <img src="fig/deviation.png" width="750px" height="450px">
 </div>
 
 ## TL,DR
@@ -41,7 +41,7 @@ FFN is a general framework and can be easily applied to existing methods for str
 - Validation Across Architectures
   
 <div align="center">
-  <img src="fig/architecture.png" width="720px" height="190px">
+  <img src="fig/architecture.png" width="800px" height="211px">
 </div>
 
 FFN can obviously outperform Separated Training (ST) at all frames on different architectures with significant less parameters on Something-Something V1 dataset.
@@ -69,7 +69,7 @@ Here we provide the pretrained models on all these architectures:
 - Validation Across Datasets
 
 <div align="center">
-  <img src="fig/dataset.png" width="720px" height="200px">
+  <img src="fig/dataset.png" width="800px" height="222px">
 </div>
 
 FFN can obviously outperform Separated Training (ST) at all frames on different datasets with significant less parameters.
@@ -92,7 +92,7 @@ and Kinetics400:
 - Inference At Any Frame
 
 <div align="center">
-  <img src="fig/any_frame.png" width="392px" height="282px">
+  <img src="fig/any_frame.png" width="450px" height="323px">
 </div>
 
 FFN can be evaluated at any frame and outperform Seperated Training (ST) even at frames which are not used in training.
